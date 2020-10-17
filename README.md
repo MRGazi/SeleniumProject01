@@ -26,3 +26,6 @@ git remote add origin https://github.com/MRGazi/GitCheatSheets.git
 
 # to push local repository:
 git push origin master
+
+# to clone the whole repository
+git clone https://github.com/MRGazi/GitCheatSheets.git
